@@ -17,10 +17,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hola, soy José Israel Manrique 🚀
+Web developer, Frontend
+-----------------------
 
 Soy un Desarrollador Junior Full Stack de aplicaciones web y móviles, profundamente enfocado en construir experiencias digitales que destaquen por ser vanguardistas, altamente funcionales y con un diseño visual impecable.
 
 Disfruto combinar el ingenio con la tecnología y un estricto rigor por los detalles. Mi objetivo principal es transformar conceptos e ideas abstractas en soluciones tecnológicas robustas, intuitivas y orientadas al usuario final. Día a día, me dedico a potenciar mis capacidades en el desarrollo frontend y backend, perfeccionando el diseño responsivo, la integración de sistemas complejos y la aplicación de las mejores prácticas de la industria del software.
+
+
+* 🌍  I'm based in México, Monterrey
+* ✉️  You can contact me at [israel.manriquer@gmail.com](mailto:israel.manriquer@gmail.com)
+* 🧠  I'm learning Java, Js, Springboot, Bootstrap
+* 🤝  I'm open to collaborating on any project where I can put into practice the knowledge I have been acquiring.
+* ⚡  I love series and coffee ☕
 
 ## 💻 Lo que hago
 
@@ -47,4 +56,26 @@ Me considero un profesional creativo, metódico, analítico, estructurado y con 
 Forjando experiencias digitales de vanguardia y alto rendimiento. Integro visión, destreza tecnológica y un rigor absoluto por los detalles para materializar ideas en soluciones sólidas y confiables.
 ---
 
+### Skills
+
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/joseisraelmanriquer-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/joseisraelmanriqueroque/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joseisraelmanriquer-dev&theme=github-dark-blue)](https://git.io/streak-stats)
+
+## Bootdev
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/f08ffb10-c763-4b0d-8222-27d02a0c5fcb/" >
+</p>
