@@ -1,4 +1,4 @@
-![Logo](https://github.com/joseisraelmanriquer-dev/joseisraelmanriquer-dev/README.md)
+![Logo](https://github.com/joseisraelmanriquer-dev/joseisraelmanriquer-dev/blob/main/José_Israel_Manrique_Roque_Desarrollador_Java_Jr_logo.png)
 
 ## Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
@@ -75,7 +75,7 @@ Forjando experiencias digitales de vanguardia y alto rendimiento. Integro visió
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joseisraelmanriquer-dev&theme=github-dark-blue)](https://git.io/streak-stats)
 
-## Bootdev
+## Thank you for your time and attention
 <p align="center">
-  <img src="https://api.boot.dev/v1/users/public/f08ffb10-c763-4b0d-8222-27d02a0c5fcb/" >
+  <img src="https://wallpaperaccess.com/full/1338352.jpg" >
 </p>
