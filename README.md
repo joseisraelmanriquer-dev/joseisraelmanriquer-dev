@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hola, soy José Israel Manrique 🚀
-Web developer, Frontend
+Junior Full Stack Java Developer
 -----------------------
 
 Soy un Desarrollador Junior Full Stack de aplicaciones web y móviles, profundamente enfocado en construir experiencias digitales que destaquen por ser vanguardistas, altamente funcionales y con un diseño visual impecable.
